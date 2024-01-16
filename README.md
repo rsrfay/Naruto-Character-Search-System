@@ -8,9 +8,15 @@ There are a total of 105 Naruto characters in this search system with informatio
 This search system utilizes Elasticsearch and Kibana for indexing and querying the data with the use of Flask framework for building web applications in Python.
 
 To run this project, you will have to install Elasticsearch and Kibana on your machine.
-> https://www.elastic.co/downloads/elasticsearch
+```
+https://www.elastic.co/downloads/elasticsearch
+```
 
 Additionally, you have to install Python3 and Flask
-> Python3 installation instruction: https://realpython.com/installing-python/
-> Flask installation instruction: https://flask.palletsprojects.com/en/3.0.x/installation/
+```
+Python3 installation instructions: https://realpython.com/installing-python/
+```
+```
+Flask installation instructions: https://flask.palletsprojects.com/en/3.0.x/installation/
+```
 
