@@ -39,7 +39,9 @@ for Windows
 set FLASK_APP=search_app.py
 flask run
 ```
+---
 
-Snapshot of the Search System:
+## Snapshot of the Search System:
+
 <img src="./screenshots/screenshot1.png" alt="screenshot1">
 <img src="./screenshots/screenshot2.png" alt="screenshot2">
